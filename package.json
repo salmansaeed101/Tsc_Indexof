@@ -1,0 +1,23 @@
+{
+  "name": "tsc_indexof",
+  "version": "1.0.0",
+  "description": "Tsc_Indexof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmansaeed101/Tsc_Indexof.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmansaeed101/Tsc_Indexof/issues"
+  },
+  "homepage": "https://github.com/salmansaeed101/Tsc_Indexof#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.10"
+  }
+}
